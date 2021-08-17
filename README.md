@@ -21,7 +21,6 @@ I'm a fullstack software engineer and SAP Developer from Belgium
 - 👯 I'm looking to collaborate on fullstack projects
 - 💬 Ask me about anything but I really like sports and coffee
 - 📫 How to reach me: jeroen@reforce-consulting.be
-- 
 <br>
 
 ## Connect with me
