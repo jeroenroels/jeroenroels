@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a fullstack software engineer and SAP Developer from Belgium
 - 🔭 I'm currently working on a fullstack webshop using Reactjs, Nodejs and PHP- 
 - 🔭 I'm currently working on custom UI5/Fiori application
-- 🌱 I'm currently learning RabbitMQ, design patterns
+- 🌱 I'm currently learning RabbitMQ, design patterns, Go Language
 - 👯 I'm looking to collaborate on fullstack projects
 - 💬 Ask me about anything but I really like sports and coffee
 - 📫 How to reach me: jeroen@reforce-consulting.be
