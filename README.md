@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello World 👋
 I'm a fullstack software engineer and SAP Developer from Belgium
 - 🔭 I'm currently working on a fullstack webshop using Reactjs, Nodejs and PHP- 
 - 🔭 I'm currently working on custom UI5/Fiori application
