@@ -1,31 +1,13 @@
-## Hi there 👋
+## Hi, I'm Jeroen. 👋
 
-<!--
-**jeroenroels/jeroenroels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical consultant with a passion for the newest technologies. I use this passion to gain experience in various areas, such SAPUI5/OpenUI5, SAP Cloud Platform, CPI, CAP, ReactJS, full stack developments, ...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a fullstack software engineer and SAP Developer from Belgium
-- 🔭 I'm currently working on a fullstack webshop using Reactjs, Nodejs and PHP- 
-- 🔭 I'm currently working on custom UI5/Fiori application
-- 🌱 I'm currently learning RabbitMQ, design patterns
-- 👯 I'm looking to collaborate on fullstack projects
-- 💬 Ask me about anything but I really like sports and coffee
-- 📫 How to reach me: jeroen@reforce-consulting.be
+Software engineering is my day to day task but it's not only about writing code, it's about analysing and translating difficult business processes into user friendly applications. This to help people/customers/partners enjoying their day to day tasks as much as I enjoy mine
 
 ### Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeroen-roels-52087449)
 <br>
 
-### Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+- 🔭 I’m currently working on NextJS, ReactJS, PHP, UI5
+- 👯 I’m looking to collaborate on fullstack project
+- 📫 How to reach me: jeroen@reforce-consulting.be
