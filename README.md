@@ -8,6 +8,6 @@ Software engineering is my day to day task but it's not only about writing code,
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeroen-roels-52087449)
 <br>
 
-- 🔭 I’m currently working on NextJS, ReactJS, PHP, UI5
+- 🔭 I’m currently working on SAP CAP, ReactJS, PHP, UI5, Fiori
 - 👯 I’m looking to collaborate on fullstack project
 - 📫 How to reach me: jeroen@reforce-consulting.be
